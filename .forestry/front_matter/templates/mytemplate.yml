@@ -1,0 +1,14 @@
+---
+label: mytemplate
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  default: titre
+  config:
+    required: true
+  label: Titre
+  name: titre
+- type: file
+  name: img
+  label: img
